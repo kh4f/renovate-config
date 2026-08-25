@@ -1,6 +1,6 @@
-# 🤖 kh4f’s Renovate Preset
+# 🤖 kh4f’s Renovate Config
 
-Shareable **Renovate preset** with the following defaults:
+Shareable **Renovate config** with the following defaults:
 - safe automerge for minor/patch with a 3‑day release‑age delay
 - semantic commits
 - clean branch naming
@@ -11,5 +11,5 @@ Shareable **Renovate preset** with the following defaults:
 Add this to your `renovate.json`:
 
 ```json
-"extends": ["github>kh4f/renovate-preset"],
+"extends": ["github>kh4f/renovate-config"],
 ```
