@@ -1,6 +1,6 @@
 # 🤖 Renovate Config
 
-Shareable **Renovate config** with the following defaults:
+A shareable Renovate config with the following defaults:
 - safe automerge for minor/patch with a 3‑day release‑age delay
 - semantic commits
 - clean branch naming
