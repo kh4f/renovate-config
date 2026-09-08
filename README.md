@@ -8,7 +8,7 @@ A shareable Renovate config with the following defaults:
 
 ## 🕹️ Usage
 
-```json
+```jsonc
 // renovate.json
 "extends": ["github>kh4f/renovate-config"],
 ```
