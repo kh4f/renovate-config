@@ -1,4 +1,4 @@
-# 🤖 Renovate Config
+# 🤖 kh4f's Renovate Config
 
 A shareable Renovate config with the following defaults:
 - safe automerge for minor/patch with a 3‑day release‑age delay
